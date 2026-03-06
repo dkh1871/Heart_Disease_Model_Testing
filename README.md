@@ -9,3 +9,8 @@ The three models are:
 
 ## Data
 [Heart Failure Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction/data)
+
+
+## Outcome  
+
+Overall, all three models performed quite well. Gradient Boosting was affected by the lack of data. The Multi-Layer Perceptron performs best; however, it may need further testing and review to ensure it's correct.
