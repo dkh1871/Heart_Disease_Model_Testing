@@ -10,6 +10,14 @@ The three models are:
 ## Data
 [Heart Failure Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction/data)
 
+This is a combined dataset that originally came from these studies:  
+
+1.	Hungarian Institute of Cardiology. Budapest: András Janosi, M.D.  
+2.	University Hospital, Zurich, Switzerland: William Steinbrunn, M.D.  
+3.	University Hospital, Basel, Switzerland: Matthias Pfisterer, M.D.  
+4.	V.A. Medical Center, Long Beach and Cleveland Clinic Foundation: Robert Detrano, M.D., Ph.D.  
+
+
 
 ## Outcome  
 
