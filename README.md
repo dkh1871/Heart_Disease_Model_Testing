@@ -21,4 +21,4 @@ This is a combined dataset that originally came from these studies:
 
 ## Outcome  
 
-Overall, all three models performed quite well. Gradient Boosting was affected by the lack of data. The Multi-Layer Perceptron performs best; however, it may need further testing and review to ensure it's correct.
+Overall, all three models performed quite well. Gradient Boosting was affected by the lack of data. The Multi-Layer Perceptron performs best; however, the results are not way better then other models. Picking the correct model will come down to specific use cases and the trade-offs between accuracy and complexity.
