@@ -1,4 +1,4 @@
-# Heart_Disease_Model_Testing
+# Heart Disease Model Testing
 
 This project creates three binary classification models to predict heart disease. The primary purpose is to compare the performance of each model.
 
